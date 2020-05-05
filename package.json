@@ -1,0 +1,25 @@
+{
+  "name": "apisoapandsoftjs",
+  "version": "1.0.0",
+  "description": "apisoapandsoftjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/tcantinelli/apisoapandsoftjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/tcantinelli/apisoapandsoftjs/issues"
+  },
+  "homepage": "https://gitlab.com/tcantinelli/apisoapandsoftjs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-ip": "^1.0.4",
+    "mongoose": "^5.4.19"
+  }
+}
